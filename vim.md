@@ -34,7 +34,8 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 ### 3. Open, Close, Save:
 1. Save and Quit Together: `:x`, or `:wq` (Only Save: `:w`, Only Quit: `:q`)
-1. Force Quit (without saving the file): `:q!`
+2. Write a file name: `:w <anyName.py>`
+3. Force Quit (without saving the file): `:q!`
 
 &nbsp;
 
